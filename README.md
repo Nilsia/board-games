@@ -36,3 +36,37 @@ picture *2
 ## The taking
 
 1.The taking of a piece is mandatory, as backward as forward.
+
+2. When a Rpiece has an opposing piece next to it, diagonally, where after this one there is a empty square. It has to jump over it and fill the empty square. The opposing piece is removed from the board. []
+
+picture * 2
+
+3. When a queen has a piece in one of its diagonal, where behind it there is an or many empty cell. The queen has to jump over it and fill on of the empty cells behind the opposing piece. The opposing piece is removed from the board.
+
+picutres * 2
+
+4. When a Rpiece can eat a opposing piece, and after it can eat another piece diagonally. It has to jump over it and fill the empty cell behind it. All the opposing pieces eaten are removed from the board.
+
+pictures * 2
+
+5. It is the same for the queens; The queen does not have to stop their eat moves id they can eat another piece.
+
+picture * 2
+
+6. It is mandatory the jump over on of his pieces.
+
+7. It is mandatory to jump over the same opposing pieces but avaible the pass on an empty cell.
+
+picture *2
+
+## The Result
+
+A player won when his opponent:
+
+  * gives up the game XXX
+  * can not play when it is his turn XXX
+  * does not have pieces anymore
+  * When nobody achieves to win
+
+
+XXX = not done
