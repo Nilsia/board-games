@@ -1,6 +1,6 @@
 # Board games
 
-Projet réalisé dans le cadre du cours d'ALG3IR donné à l'ESI.
+Dépôt créé pour aider les développeurs en python
 
 ## Règles de base
 
@@ -103,12 +103,6 @@ Le gain est obtenu par un joueur lorsque son adversaire :
   * N’a plus de pièces
   * L’égalité, dénommée aussi remise ou nulle, est obtenue pour chacun des adversaires :
   * Lorsqu’aucun des deux ne parvient au gain
-
-## Base de données
-
-  * La base de données contient l'historique des mouvements, permettant ainsi de recharger une partie jouée précédemment.
-
-Nous utiliserons JDBC et Derby.
 
 ## Source
 
