@@ -1,8 +1,5 @@
-In this repository, you will be able to find a lot of board games.
+# puisance 4
 
-The repository exists for helping developpers if they need help.
+The puissance 4 has been developped to help you
 
-Now The draughts are avaible. The verifying of the victory is not really finished.
-If you want that to be done just put a start to this repository and let me know you want that being done.
-
-Enjoy !!
+It is in an easy way to use
